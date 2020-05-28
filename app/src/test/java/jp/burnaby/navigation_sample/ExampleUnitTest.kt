@@ -1,4 +1,4 @@
-package jp.burnaby.navitaion_sample
+package jp.burnaby.navigation_sample
 
 import org.junit.Test
 

@@ -1,3 +1,7 @@
 <resources>
-  <string name="app_name">NavitaionSample</string>
+  <string name="app_name">NavigationSample</string>
+
+  <string name="tab_title1">Tab1</string>
+  <string name="tab_title2">Tab2</string>
+  <string name="tab_title3">Tab3</string>
 </resources>

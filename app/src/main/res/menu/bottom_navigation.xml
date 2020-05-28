@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_tab1"
+        android:icon="@drawable/ic_launcher_foreground"
+        android:title="@string/tab_title1" />
+
+    <item
+        android:id="@+id/navigation_tab2"
+        android:icon="@drawable/ic_launcher_foreground"
+        android:title="@string/tab_title2" />
+
+    <item
+        android:id="@+id/navigation_tab3"
+        android:icon="@drawable/ic_launcher_foreground"
+        android:title="@string/tab_title3" />
+
+</menu>
